@@ -33,4 +33,4 @@ El proyecto consiste en una aplicación Java que consume la API pública **Guten
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone [[<URL_DEL_REPOSITORIO>](t)](https://github.com/BERTOPRE/literalurachallenge.git)
